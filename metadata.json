@@ -1,0 +1,6 @@
+{
+  "name": "Secure Password Manager",
+  "description": "Personal password vault with AES-256 encryption, password generator, strength meter, and secure vault storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
