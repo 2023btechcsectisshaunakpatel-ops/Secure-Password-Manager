@@ -111,7 +111,7 @@ python test_auth.py          # bcrypt hashing + JWT create/verify
 
 ![image alt](https://github.com/2023btechcsectisshaunakpatel-ops/Secure-Password-Manager/blob/f4c94d74e4ef096aba0bce84b4ff97d5409fd6bf/Screenshot%202026-07-31%20231726.png)
 
-![image alt]()
+![image alt](https://github.com/2023btechcsectisshaunakpatel-ops/Secure-Password-Manager/blob/98e577dbef244e2d4c0e07d3a8f4b96239b83e4d/Screenshot%202026-07-31%20231744.png)
 
 ![image alt]()
 
