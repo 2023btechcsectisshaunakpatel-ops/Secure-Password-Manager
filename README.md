@@ -109,7 +109,7 @@ Run the included test scripts to verify each layer independently:
 python test_auth.py          # bcrypt hashing + JWT create/verify
 
 
-![image alt](Screenshot 2026-07-31 231726.png)
+![image alt](https://github.com/2023btechcsectisshaunakpatel-ops/Secure-Password-Manager/blob/f4c94d74e4ef096aba0bce84b4ff97d5409fd6bf/Screenshot%202026-07-31%20231726.png)
 
 ![image alt]()
 
