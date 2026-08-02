@@ -111,10 +111,10 @@ python test_encryption.py    # AES encrypt/decrypt round-trip
 python test_crud.py          # entries CRUD + user isolation
 python test_all_phases.py    # end-to-end flow
 ```
-! [image alt](https://github.com/2023btechcsectisshaunakpatel-ops/Secure-Password-Manager/blob/f4c94d74e4ef096aba0bce84b4ff97d5409fd6bf/Screenshot%202026-07-31%20231726.png)
+![image alt](https://github.com/2023btechcsectisshaunakpatel-ops/Secure-Password-Manager/blob/f4c94d74e4ef096aba0bce84b4ff97d5409fd6bf/Screenshot%202026-07-31%20231726.png)
 
-! [image alt](https://github.com/2023btechcsectisshaunakpatel-ops/Secure-Password-Manager/blob/98e577dbef244e2d4c0e07d3a8f4b96239b83e4d/Screenshot%202026-07-31%20231744.png)
+![image alt](https://github.com/2023btechcsectisshaunakpatel-ops/Secure-Password-Manager/blob/98e577dbef244e2d4c0e07d3a8f4b96239b83e4d/Screenshot%202026-07-31%20231744.png)
 
-! [image alt](https://github.com/2023btechcsectisshaunakpatel-ops/Secure-Password-Manager/blob/3c5344096be390716771fcb9c20271485a0fa8f4/Screenshot%202026-07-31%20231800.png)
+![image alt](https://github.com/2023btechcsectisshaunakpatel-ops/Secure-Password-Manager/blob/3c5344096be390716771fcb9c20271485a0fa8f4/Screenshot%202026-07-31%20231800.png)
 
-! [image alt](https://github.com/2023btechcsectisshaunakpatel-ops/Secure-Password-Manager/blob/e93ed0307a63359dbfdabf9ab939db5e1668c1fe/Screenshot%202026-07-31%20231814.png)
+![image alt](https://github.com/2023btechcsectisshaunakpatel-ops/Secure-Password-Manager/blob/e93ed0307a63359dbfdabf9ab939db5e1668c1fe/Screenshot%202026-07-31%20231814.png)
